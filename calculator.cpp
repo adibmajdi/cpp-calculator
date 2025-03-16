@@ -12,6 +12,9 @@ int main() {
     sum = num1 + num2;
 
     cout << "Hasil dari " << num1 << " + " << num2 << " adalah: " << sum << endl;
+
+    double selisih = num1 - num2;
+    cout << "Hasil pengurangan: " << selisih << endl;
     
     return 0;
 }
