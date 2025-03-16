@@ -11,7 +11,7 @@ int main() {
 
     sum = num1 + num2;
 
-    cout << "Hasil penjumlahan: " << sum << endl;
+    cout << "Hasil dari " << num1 << " + " << num2 << " adalah: " << sum << endl;
     
     return 0;
 }
